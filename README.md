@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript, HTML, CSS and Python
 - 📫 How to reach me: kes.olling00@gmail.com
 
-
+https://www.linkedin.com/in/kes-olling-b54a82164/
 # Connect with me
-<img src="https://www.linkedin.com/in/kes-olling-b54a82164" />
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kes-olling-b54a82164/)
+
 
