@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 # Connect with me
 
-[![Linkedin](https://blog.waalaxy.com/nl/linkedin-logo-leer-alles/)](https://www.linkedin.com/in/kes-olling-b54a82164/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/kes-olling-b54a82164/)
 
 
