@@ -18,16 +18,14 @@ Here are some ideas to get you started:
 
 <h2 align='center'>Who am I?</h2>
 
-<p align='center'>
-- 🔭 I’m currently working on web-development
-- 🌱 I’m currently learning Javascript, HTML, CSS and Python
-- 📫 How to reach me: kes.olling00@gmail.com  
-
-</p>
+<ul align='center'>
+  <li>🔭 I’m currently working on web-development</li>
+  <li>🌱 I’m currently learning Javascript, HTML, CSS and Python</li>
+  <li>📫 How to reach me: kes.olling00@gmail.com</li>
+</ul>
 
 
 <h2 align='center'>Connect with me</h2>
-
 
 <p align='center'>
   
