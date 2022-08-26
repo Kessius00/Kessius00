@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Kes Olling
+<h1 align='center'>
+  Hi there 👋, I'm Kes Olling
+ </h1>
 
 
 <!--
@@ -14,6 +16,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2 align='center'>Who am I?</h2>
+
+<p align='center'>
+- 🔭 I’m currently working on web-development
+- 🌱 I’m currently learning Javascript, HTML, CSS and Python
+- 📫 How to reach me: kes.olling00@gmail.com  
+
+</p>
+
+
+<h2 align='center'>Connect with me</h2>
+
+
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/kes-olling-b54a82164/">
@@ -24,15 +39,5 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;
   
 </p>
-
-# Who am I?
-
-- 🔭 I’m currently working on web-development
-- 🌱 I’m currently learning Javascript, HTML, CSS and Python
-- 📫 How to reach me: kes.olling00@gmail.com
-
-# Connect with me
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/kes-olling-b54a82164/)
 
 
