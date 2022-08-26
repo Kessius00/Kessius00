@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 https://www.linkedin.com/in/kes-olling-b54a82164/
 # Connect with me
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kes-olling-b54a82164/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/kes-olling-b54a82164/)
 
 
