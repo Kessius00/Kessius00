@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 # Connect with me
-![https://blog.waalaxy.com/nl/linkedin-logo-leer-alles/]({https://www.linkedin.com/in/kes-olling-b54a82164/})
+![Linkedin]({https://www.linkedin.com/in/kes-olling-b54a82164/})
