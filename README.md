@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h2 align='center'>Who am I?</h2>
 
-<ul align='center' style='list-style-type: none;'>
+<ul align='center' style='list-style: none;'>
   <li>🔭 I’m currently working on web-development</li>
   <li>🌱 I’m currently learning Javascript, HTML, CSS and Python</li>
   <li>📫 How to reach me: kes.olling00@gmail.com</li>
