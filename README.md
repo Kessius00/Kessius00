@@ -4,16 +4,16 @@
 
 <h2 align='center'>Who am I?</h2>
 
-- 🔭 I’m currently working on web-development
+- 🔭 I’m currently focusing on web-development
 - 🌱 I’m currently learning Javascript, HTML, CSS and Python
 - ⚡ Fun fact: I study Mechanical Engineering at TU Delft!
 - 📫 How to reach me: kes.olling00@gmail.com
 
- <p align='center'>🔭 I’m currently working on web-development</p>
+<!--  <p align='center'>🔭 I’m currently working on web-development</p>
  <p align='center'>🌱 I’m currently learning Javascript, HTML, CSS and Python</p>
  <p align='center'>⚡ Fun fact: I study Mechanical Engineering at TU Delft!</p>
  <p align='center'>📫 How to reach me: kes.olling00@gmail.com</p>
-
+ -->
 <h2 align='center'>Connect with me</h2>
 
 <p align='center'>
