@@ -4,10 +4,6 @@
 
 <h2 align='center'>Who am I?</h2>
 
-- 🔭 I’m currently focusing on web-development
-- 🌱 I’m currently learning Javascript, HTML, CSS and Python
-- ⚡ Fun fact: I study Mechanical Engineering at TU Delft!
-- 📫 How to reach me: kes.olling00@gmail.com
 
  <p align='center'>🔭 I’m currently working on web-development</p>
  <p align='center'>🌱 I’m currently learning Javascript, HTML, CSS and Python</p>
@@ -35,6 +31,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+- 🔭 I’m currently focusing on web-development
+- 🌱 I’m currently learning Javascript, HTML, CSS and Python
+- ⚡ Fun fact: I study Mechanical Engineering at TU Delft!
+- 📫 How to reach me: kes.olling00@gmail.com
 
 - 😄 Pronouns: ...
 
