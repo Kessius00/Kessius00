@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Who am I?
+
 - 🔭 I’m currently working on web-development
 - 🌱 I’m currently learning Javascript, HTML, CSS and Python
 - 📫 How to reach me: kes.olling00@gmail.com
 
-https://www.linkedin.com/in/kes-olling-b54a82164/
 # Connect with me
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/kes-olling-b54a82164/)
 
 
