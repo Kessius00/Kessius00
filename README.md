@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Who am I?
+# Who am I?
 - 🔭 I’m currently working on web-development
 - 🌱 I’m currently learning Javascript, HTML, CSS and Python
 - 📫 How to reach me: kes.olling00@gmail.com
 
 
-#Connect with me
-<img src="{https://www.linkedin.com/in/kes-olling-b54a82164/}" />
+# Connect with me
+![https://blog.waalaxy.com/nl/linkedin-logo-leer-alles/]({https://www.linkedin.com/in/kes-olling-b54a82164/})
