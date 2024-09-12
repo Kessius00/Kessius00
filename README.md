@@ -1,3 +1,4 @@
+<!--
 <h1 align='center'>
   Hi, I'm Kes Olling
  </h1>
@@ -21,7 +22,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-
+-->
 
 
 <!--
